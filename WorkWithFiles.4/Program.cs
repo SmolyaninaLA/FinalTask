@@ -71,7 +71,7 @@ namespace FinalTask
               
             }
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
             
      }
